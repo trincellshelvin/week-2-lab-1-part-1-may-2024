@@ -27,13 +27,13 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [x] Create index.html
 - [x] Create cats.html
 - [x] Update README author
-- [ ] Create dogs.html
-- [ ] Create an H1 tag in dogs.html
-- [ ] Create a P tag in dogs.html
-- [ ] Create an ARTICLE tag in dogs.html
-- [ ] Create an H2 and two P tags nested inside the ARTICLE tag
+- [x] Create dogs.html
+- [x] Create an H1 tag in dogs.html
+- [x] Create a P tag in dogs.html
+- [x] Create an ARTICLE tag in dogs.html
+- [x] Create an H2 and two P tags nested inside the ARTICLE tag
 - [ ] Make more HTML files on different topics (optional)
-- [ ] Commit and sync to Github
+- [x] Commit and sync to Github
 
 ### Bonus and Extension
 
